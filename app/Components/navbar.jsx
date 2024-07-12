@@ -9,7 +9,7 @@ function Navbar({ setNavbarHeight }) {
     if (navRef.current) {
       setNavbarHeight(navRef.current.offsetHeight);
     }
-  }, []);
+  }, [setNavbarHeight]);
 
   const navlink = ['About Us', 'Team', 'Updates'];
 
