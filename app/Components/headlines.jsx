@@ -18,7 +18,7 @@ function Headlines({ setHeadlinesHeight }) {
     if (headlineRef.current) {
       setHeadlinesHeight(headlineRef.current.offsetHeight);
     }
-  }, []);
+  }, [setHeadlinesHeight]);
 
   const handleMouseEnter = () => {
     setIsHovered(true);
