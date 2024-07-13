@@ -43,7 +43,7 @@ const Card = () => {
           researchers, and professionals from national institutes to deliberate
           on issues of national importance, raise concerns, and offer innovative
           solutions.
-          <br /> <br /> Think India also aims to instill a "Nation First"
+          <br /> <br /> Think India also aims to instill a &quot;Nation First&quot;
           attitude and encourage young people to take responsibility for nation
           building.
         </p>
