@@ -52,7 +52,7 @@ export default function Contact() {
               className="block text-gray-100 text-sm font-bold mb-2"
               htmlFor="fixedEmail"
             >
-              Aashish Kumar Singh's G-Mail
+              Aashish Kumar Singh&apos;s G-Mail
             </label>
             <input
               type="text"
@@ -67,7 +67,7 @@ export default function Contact() {
               className="block text-gray-100 text-sm font-bold mb-2"
               htmlFor="email"
             >
-              {name ? name : "Your"}'s G-Mail Account
+              {name ? name : "Your"}&apos;s G-Mail Account
             </label>
             <input
               type="email"

@@ -36,10 +36,10 @@ const Card = () => {
         </h2>
         <p className="text-gray-300 text-lg shadow-md font-medium leading-6 mt-2 justify-start">
           Think India is a pan-India initiative that aims to bring together the
-          country's best talent and intellectual resources to develop a
+          Country&apos;s best talent and intellectual resources to develop a
           nationalistic spirit and inspire young people to serve society. <br />
           <br />
-          The initiative's vision is to create a forum for students,
+          The initiative&apos;s vision is to create a forum for students,
           researchers, and professionals from national institutes to deliberate
           on issues of national importance, raise concerns, and offer innovative
           solutions.
